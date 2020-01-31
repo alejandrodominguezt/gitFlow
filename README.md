@@ -4,9 +4,13 @@
 
 # David Alejandro Domínguez Tabardillo
 
-***Documentos de Datos Masivos***
+***Repositorio de Datos Masivos***
 
 - 15211698
+
+## Datos Masivos
+
+Los Datos Masivos es un término amplio para conjuntos de datos muy grandes o complejos que las aplicaciones de procesamiento de datos tradicionales no son insuficientes para su manejo.
 
 
 
