@@ -1,10 +1,10 @@
 # gitFlow
 
-# Alejandro Domínguez
+# David Alejandro Domínguez Tabardillo
 
-***Documentemos de Datos Masivos***
+***Documentos de Datos Masivos***
 
 - 15211698
 
 
-git
+
